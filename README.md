@@ -1,8 +1,24 @@
-
 ## Hi there 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joyal2003/Joyal2003/main/assets/profile-glitch.svg" width="360" alt="Joyal2003" />
+</p>
+
+<p align="left">
+  <b>Building cool stuff, shipping ideas, and turning chaotic thoughts into clean code.</b><br>
+  I’m a full-stack developer who loves solving real problems with tech, making interfaces feel smooth, and creating products that actually feel alive.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Currently%20vibing%20with-React%20%26%20Node.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Currently vibing with React and Node.js" />
+  <img src="https://img.shields.io/badge/Always%20learning-TypeScript%20%26%20Cloud-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Always learning TypeScript and Cloud" />
+</p>
+
+<p align="left">
+  <code>💻</code> I build full-stack experiences from idea to deployment.<br>
+  <code>🚀</code> Love turning concepts into products people actually use.<br>
+  <code>⚡</code> Obsessed with clean architecture, fast workflows, and scalable systems.<br>
+  <code>🧠</code> Constantly exploring new tools, patterns, and smarter ways to build.
 </p>
 
 ## Mastered technologies and topics
@@ -30,3 +46,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+
