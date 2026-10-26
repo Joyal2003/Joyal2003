@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joyal2003/Joyal2003/main/assets/profile-glitch.svg" width="360" alt="Joyal2003" />
-</p>
+
 
 <p align="left">
   <b>Building cool stuff, shipping ideas, and turning chaotic thoughts into clean code.</b><br>
