@@ -1,13 +1,19 @@
+<p align="center">
+  <img src="https://github.com/Joyal2003.png" width="360" alt="Joyal2003" />
+</p>
+
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<ul>
+  <li>🔭 I’m currently working on ...</li>
+  <li>🌱 I’m currently learning ...</li>
+  <li>🤝 I’m looking to collaborate on ...</li>
+  <li>💡 I’m looking for help with ...</li>
+  <li>💬 Ask me about ...</li>
+  <li>📫 How to reach me: ...</li>
+  <li>😄 Pronouns: ...</li>
+  <li>⚡ Fun fact: ...</li>
+</ul>
 
 ## Mastered technologies and topics
 
@@ -34,4 +40,3 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-
