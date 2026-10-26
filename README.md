@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/Joyal2003.png" width="360" alt="Joyal2003" />
+  <img src="https://raw.githubusercontent.com/Joyal2003/Joyal2003/main/assets/profile-glitch.svg" width="360" alt="Joyal2003" />
 </p>
 
 ## Mastered technologies and topics
